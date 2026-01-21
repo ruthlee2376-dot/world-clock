@@ -32,7 +32,8 @@ select {
 }
 
 a {
-  color: yellow;
+  color: orangered;
+  font-weight: bold;
 }
 
 .container {
